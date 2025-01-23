@@ -1,1 +1,1 @@
-# odin-recipes
+First project built using the odin project curriculum
